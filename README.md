@@ -1,2 +1,2 @@
-# I'm a passionate learner and developer, exploring the world of AI.
+# I'm a passionate learner and developer, exploring the world of Data Science.
 
